@@ -5,6 +5,12 @@ ShowerForEarth 서버리스 환경(aws dynamodb/lambda/api-gateway/amplify) 구�
 
 <br/>
 
+<br/>
+
+## 📽️ 전체 시스템 요약도
+<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190562755-92c56fbc-e09d-4f61-abb3-c45cf322ce96.png" width="60%" height="45%" /></p>
+
+<br/>
 
 ## 🛠 사용 기술 
 | 기술 | 설명 |
