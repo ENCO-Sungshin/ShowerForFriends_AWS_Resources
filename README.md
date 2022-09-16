@@ -1,4 +1,4 @@
-# ShowerForFriends_AWS_Resources
+# 🚿 ShowerForFriends_AWS_Resources
 ShowerForEarth 서버리스 환경(aws dynamodb/lambda/api-gateway/amplify) 구축 코드 자료
 
 [➡구축 기록 보러가기⬅](https://docs.google.com/presentation/d/1JPcc4__k26gpKiZ2p2riElw5cabbTklN/edit?usp=sharing&ouid=104402475252706033047&rtpof=true&sd=true)
