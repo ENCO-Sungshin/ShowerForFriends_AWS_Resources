@@ -36,5 +36,12 @@ ShowerForEarth 서버리스 환경(aws dynamodb/lambda/api-gateway/amplify) 구�
 ## 📅 ERD
 <p align="center"><img src="https://user-images.githubusercontent.com/68148196/187672625-d3bd27d6-bdac-4c6e-9894-6ec701ab0aab.png" width="45%" height="45%" title="erd" alt="system architecture"></img></p>
 
+[👩‍🏫 2021 성신여자대학교 SW 경진대회 발표 자료](https://docs.google.com/presentation/d/1tlNgGfHZHpt77K5_Z1h8Gfy0xOe6TrdA/edit?usp=sharing&ouid=104402475252706033047&rtpof=true&sd=true)
+<br/>
 
+[📱 안드로이드앱 repository](https://github.com/ENCO-Sungshin/ShowerForFriends_Android)
+<br/>
+
+[🖥️ 라즈베리파이 repository](https://github.com/ENCO-Sungshin/ShowerForFriends_RaspberryPi)
+<br/>
 
