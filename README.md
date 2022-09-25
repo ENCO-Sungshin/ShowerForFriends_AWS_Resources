@@ -15,7 +15,7 @@ ShowerForEarth 서버리스 환경(aws dynamodb/lambda/api-gateway/amplify) 구�
 ## 🛠 사용 기술 
 | 기술 | 설명 |
 |------|------|
-| Amplify | 어플리케이션 풀스택 개발을 돕는 프레임워크 |
+| AWS Amplify | 어플리케이션 풀스택 개발을 돕는 프레임워크 |
 | Amazon API Gateway | API 를 손쉽게 생성, 게시, 유지 관리, 모니터링 및 보안 유지할 수 있도록 하는 서비스 |
 | AWS Lambda | 이벤트에 대한 응답으로 코드를 실행하고 자동으로 기본 컴퓨팅 리소스를 관리하는 서버리스 컴퓨팅 서비스 |
 | Dynamo DB | 유저 데이터를 저장, 관리하는 NoSQL 데이터베이스 |
